@@ -6,3 +6,5 @@ Vue 3 Language support for Atom IDE, powered by [Volar](https://github.com/johns
 * Diagnostics
 * Datatips
 * Autocomplete
+
+### Credit to Vetur for grammar scoping
