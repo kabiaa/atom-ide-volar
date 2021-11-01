@@ -1,10 +1,10 @@
 {
   "name": "atom-ide-volar",
   "main": "./lib/atom-ide-volar",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Volar Language Server for Atom",
   "keywords": [],
-  "repository": "https://github.com/atom/atom-ide-volar",
+  "repository": "https://github.com/kabiaa/atom-ide-volar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
