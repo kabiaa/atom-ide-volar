@@ -10,9 +10,9 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "@volar/vue-language-server": "^0.34.11",
+    "@volar/vue-language-server": "^1.0.0",
     "atom-languageclient": "^1.16.1",
-    "typescript": "^4.4.4"
+    "typescript": "^4.9.4"
   },
   "consumedServices": {
     "linter-indie": {
